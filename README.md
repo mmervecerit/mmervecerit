@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @mmervecerit
-- 👀 I’m interested in the intersection of Applied AI & Human Learning and Wellbeing
-- 🌱 I’m currently learning Multilevel Hidden Markov Models and how to work with massive longitudinal time series data
-- 💞️ I’m looking to collaborate on time series & computer vision tasks that serve to create a social impact
+- 👋 Hi, I’m @mmervecerit, a PhD Candidate at Stanford University, AI Engineer at Atypical AI.
+- 👀 I’m working in the intersection of AI & Learning and Mental Health.
 - 📫 How to reach me -> mervecer@stanford.edu
 
 <!---
