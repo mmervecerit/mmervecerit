@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmervecerit, a PhD Candidate at Stanford University, AI Engineer at Atypical AI.
+- 👋 Hi, I’m @mmervecerit, a PhD Candidate at Stanford University.
 - 👀 I’m working in the intersection of AI & Learning and Mental Health.
 - 📫 How to reach me -> mervecer@stanford.edu
 
